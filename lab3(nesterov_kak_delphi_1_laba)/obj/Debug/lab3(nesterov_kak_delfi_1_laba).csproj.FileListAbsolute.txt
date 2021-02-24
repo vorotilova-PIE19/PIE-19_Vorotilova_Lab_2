@@ -26,3 +26,13 @@ C:\Users\ritav\Downloads\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nestero
 C:\Users\ritav\Downloads\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).csproj.CoreCompileInputs.cache
 C:\Users\ritav\Downloads\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).exe
 C:\Users\ritav\Downloads\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).pdb
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\bin\Debug\lab3(nesterov_kak_delfi_1_laba).exe.config
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\bin\Debug\lab3(nesterov_kak_delfi_1_laba).exe
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\bin\Debug\lab3(nesterov_kak_delfi_1_laba).pdb
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).csprojAssemblyReference.cache
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3_nesterov_kak_delfi_1_laba_.Form1.resources
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3_nesterov_kak_delfi_1_laba_.Properties.Resources.resources
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).csproj.GenerateResource.cache
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).csproj.CoreCompileInputs.cache
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).exe
+C:\projects\PIE-19_Vorotilova_Lab_2\lab3(nesterov_kak_delphi_1_laba)\obj\Debug\lab3(nesterov_kak_delfi_1_laba).pdb
